@@ -1,8 +1,6 @@
 # devops_js
-echo "Test clave privada corregida 🔑" >> README.md
+echo "Prueba sin port en deploy.yml ✅" >> README.md
 git add README.md
-git commit -m "Test deploy con clave privada corregida"
+git commit -m "Prueba CD sin port"
 git push origin main
-
-
 
