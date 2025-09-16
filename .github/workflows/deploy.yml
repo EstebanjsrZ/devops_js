@@ -21,5 +21,6 @@ jobs:
           key: ${{ secrets.SERVER_SSH_KEY }}
           port: 22
           script: |
-            cd ~/server_devops
+            cd ~/Documentos/devopss/server_devops
             git pull origin main
+
