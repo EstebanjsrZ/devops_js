@@ -1,6 +1,6 @@
 # devops_js
-echo "Prueba sin port en deploy.yml ✅" >> README.md
+echo "Deploy desde casa 🏠" >> README.md
 git add README.md
-git commit -m "Prueba CD sin port"
+git commit -m "Test deploy desde casa"
 git push origin main
 
